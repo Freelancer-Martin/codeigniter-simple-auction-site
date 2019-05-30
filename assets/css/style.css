@@ -1,0 +1,127 @@
+.seller-bid-third-col
+{
+  position: relative;
+  margin: 0px;
+  padding: 0px,
+
+}
+
+
+.seller-bid-checkbox
+{
+  position: relative;
+  margin: 10px;
+  padding: 10px;
+  display: block;
+}
+
+.seller-bid-input
+{
+  position: relative;
+  margin: 10px;
+  padding: 10px;
+
+}
+
+.seller-bid-checkbox-first-col
+{
+  position: relative;
+  margin: 20px;
+  padding: 20px;
+  display: inline;
+  float: left;
+}
+
+.seller-bid-input-first-col
+{
+  position: relative;
+  margin: 10px;
+  padding: 10px;
+  display: inline;
+
+}
+
+.buyer-vehicle-form-input
+{
+  position: relative;
+  margin: 10px;
+  padding: 10px;
+
+
+}
+
+.buyer-vechile-title
+{
+  padding: 0.5%;
+
+}
+
+
+.buyers-request-checkbox-label
+{
+
+  width: 85%;
+
+}
+
+.form-signin-heading
+{
+
+  display: inline-block;
+  width: 100%;
+
+}
+
+.buyers-request-checkbox-input
+{
+    font-size: 14px;
+    width: 3% !important;
+    position: relative;
+    padding: 0.25%;
+    margin: 0.25%;
+    text-align: center;
+}
+
+
+.buyer-vehicle-form-label {
+    font-size: 14px;
+    width: 50% !important;
+    position: relative;
+    padding: 0.25%;
+    margin: 0.25%;
+    text-align: center;
+}
+
+.next-buyer-vehicle
+{
+  width: 25% !important;
+  margin-right: 24%;
+  margin-left: 0%;
+  margin-top: 2%;
+  margin-bottom: 2%;
+  float: right;
+  padding: 1%;
+
+}
+
+.register-form-input {
+    display: inline !important;
+    margin: 5px;
+    padding: 10px;
+    font-size: 14px;
+}
+
+
+.dashboard-form-container
+{
+  height: 100vh;
+  width: 85vw;
+  float: right;
+}
+
+.buyer-vehicle-form-add-input
+{
+
+  width: 50%;
+
+}
